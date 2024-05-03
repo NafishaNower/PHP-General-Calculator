@@ -1,0 +1,27 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+    display: flex;    
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(225, 240, 19);
+    font-weight: 900; 
+}
+
+h2 {
+    text-align: center;
+    color: rgb(13, 17, 233);
+    font-weight: 900; 
+}
+
+.form-control {
+    width: 800px;
+    height: 100px; 
+    margin: auto;
+    display: block;
+}
